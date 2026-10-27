@@ -8,10 +8,12 @@ __pycache__/
 .coverage
 .coverage.*
 htmlcov/
+run.log
 
 # 虛擬環境
 .venv/
 venv/
+.venv
 
 # uv
 .python-version
