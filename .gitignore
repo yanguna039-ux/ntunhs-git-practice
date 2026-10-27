@@ -9,6 +9,7 @@ __pycache__/
 .coverage.*
 htmlcov/
 run.log
+fde-calldeliver-backend/
 
 # 虛擬環境
 .venv/
